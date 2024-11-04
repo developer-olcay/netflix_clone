@@ -6,5 +6,6 @@ This project is a clone of the netflix clone website. It was created using HTML 
 * Optimized for different screen sizes
 * Modern and elegant user interface
 # Gif
-![12_hs_htmlcss_proje2-GoogleChrome2024-11-0423-04-25-ezgif com-crop](https://github.com/user-attachments/assets/8b430dcc-d412-45a8-9ed8-5f092d4496e0)
+![12_hs_htmlcss_proje2-GoogleChrome2024-11-0423-33-07-ezgif com-crop](https://github.com/user-attachments/assets/2a46b808-01cd-44df-82c6-2204f1a07cda)
+
 
